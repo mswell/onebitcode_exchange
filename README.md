@@ -73,7 +73,7 @@ Happy fun :)
 
 
 <h6 align="center">
-	<a href="https://goo.gl/EHhrcC">MIT</a>
+	<a href="https://goo.gl/x3LhRK">MIT</a>
 	©
 	Wellington Moraes
 </h6>
