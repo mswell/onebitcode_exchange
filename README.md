@@ -1,5 +1,6 @@
 [ ![Codeship Status for mswell/onebitcode_exchange](https://app.codeship.com/projects/e3131a60-8c17-0135-77dd-2aff2f21df10/status?branch=master)](https://app.codeship.com/projects/249466)
 ![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a400dc5b31370552b32d/maintainability)](https://codeclimate.com/github/mswell/onebitcode_exchange/maintainability)
 
 # Onebitcode Exchange
 
